@@ -7,7 +7,7 @@ mixing with this 3:1 ration.
 `ffmpeg -i audio1.mp3 -i audio2.mp3 -filter_complex "amix=inputs=2:duration=shortest:dropout_transition=3:weights=3 1" -c:a libmp3lame mergedaudio.mp3`
 
 ### Important Proper Nouns:
-Lame (as seen in "libmp3lame"): https://lame.sourceforge.io/
+Lame (as seen in "libmp3lame"): https://lame.sourceforge.io/  
 MP3Gain: http://mp3gain.sourceforge.net/download.php
 
 ### Future Verions:
