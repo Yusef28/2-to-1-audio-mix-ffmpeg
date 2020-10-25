@@ -14,3 +14,8 @@ MP3Gain: http://mp3gain.sourceforge.net/download.php
 - [x] User defined ratios (python)  
 - [x] User defined paths (python)  
 - [x] New directory creation (python)  
+
+
+### Sources:
+- https://ffmpeg.org/ffmpeg-filters.html  
+-  https://stackoverflow.com/questions/35717297/merge-two-audio-files-ffmpeg-acodec
