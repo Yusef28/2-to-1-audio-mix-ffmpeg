@@ -11,6 +11,6 @@ Lame (as seen in "libmp3lame"): https://lame.sourceforge.io/
 MP3Gain: http://mp3gain.sourceforge.net/download.php
 
 ### Future Verions:
-- [x] User defined ratios  
-- [x] User defined paths
-- [x] New directory creation
+- [x] User defined ratios (python)  
+- [x] User defined paths (python)  
+- [x] New directory creation (python)  
